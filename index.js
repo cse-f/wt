@@ -1,11 +1,13 @@
 HTML-registration Form------------>     curl -k https://cse-f.github.io/wt/html/registration_form.js
 HTML-various ways of adding styles>     curl -k https://cse-f.github.io/wt/html/styles.js
 HTML-selectors-------------------->     curl -k https://cse-f.github.io/wt/html/selectors.js
-HTML-grid-------------------->     curl -k https://cse-f.github.io/wt/html/grid.js
-HTML-flex-------------------->     curl -k https://cse-f.github.io/wt/html/flex.js
-HTML-trnasition-------------------->     curl -k https://cse-f.github.io/wt/html/transition.js
+HTML-grid------------------------->     curl -k https://cse-f.github.io/wt/html/grid.js
+HTML-flex------------------------->     curl -k https://cse-f.github.io/wt/html/flex.js
+HTML-trnasition------------------->     curl -k https://cse-f.github.io/wt/html/transition.js
 HTML-animation-------------------->     curl -k https://cse-f.github.io/wt/html/animation.js
 
+
+BOOTSTRAP------------------------->     curl -k https://cse-f.github.io/wt/html/gridSystem.js
 
 
 
