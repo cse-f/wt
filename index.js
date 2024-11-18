@@ -7,8 +7,9 @@ HTML-trnasition------------------->     curl -k https://cse-f.github.io/wt/html/
 HTML-animation-------------------->     curl -k https://cse-f.github.io/wt/html/animation.js
 
 
-BOOTSTRAP-grid layout system------>     curl -k https://cse-f.github.io/wt/html/gridSystem.js
-BOOTSTRAP-list,button,table,image->     curl -k https://cse-f.github.io/wt/html/list_table_button_img.js
+BOOTSTRAP-grid layout system------>     curl -k https://cse-f.github.io/wt/bs/gridSystem.js
+BOOTSTRAP-list,button,table,image->     curl -k https://cse-f.github.io/wt/bs/list_table_button_img.js
+BOOTSTRAP-registration page------->     curl -k https://cse-f.github.io/wt/bs/registration_bootstrap.js
 
 
 JS-fibonacci series----------->     curl -k https://cse-f.github.io/wt/js/fib.js
@@ -18,12 +19,10 @@ JS-regular Expressions-------->     curl -k https://cse-f.github.io/wt/js/regex.
 JS-calculator----------------->     curl -k https://cse-f.github.io/wt/js/calci.js
 
 
-  
 JQUERY-EVENTS(mouseUP,Down,enter,leave,focus)---->        curl -k https://cse-f.github.io/wt/jq/1.js
 JQUERY-ACTIONS(show,hide,t)---->       curl -k https://cse-f.github.io/wt/jq/2.js
 JQUERY-SLIDEMETHODS------------>       curl -k https://cse-f.github.io/wt/jq/4.js
 JQUERY-FADEMETHODS------------->       curl -k https://cse-f.github.io/wt/jq/3.js
-
 
 
 JDBC-SELECT--------------------->         curl -k https://cse-f.github.io/wt/jdbc/1.js
