@@ -31,4 +31,6 @@ JDBC-preparedStatement,insert--->         curl -k https://cse-f.github.io/wt/jdb
 JDBC-procedure------------------>         curl -k https://cse-f.github.io/wt/jdbc/4.js
 JDBC-databaseMETADATA----------->         curl -k https://cse-f.github.io/wt/jdbc/5.js
 JDBC-resultSET METADATA--------->         curl -k https://cse-f.github.io/wt/jdbc/6.js
+JDBC-scrollable restulSET------->         curl -k https://cse-f.github.io/wt/jdbc/scrollable.js
+
 
