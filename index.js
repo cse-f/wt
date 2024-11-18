@@ -4,6 +4,7 @@ HTML-selectors-------------------->     curl -k https://cse-f.github.io/wt/html/
 HTML-grid-------------------->     curl -k https://cse-f.github.io/wt/html/grid.js
 HTML-flex-------------------->     curl -k https://cse-f.github.io/wt/html/flex.js
 HTML-trnasition-------------------->     curl -k https://cse-f.github.io/wt/html/transition.js
+HTML-animation-------------------->     curl -k https://cse-f.github.io/wt/html/animation.js
 
 
 
