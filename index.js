@@ -3,6 +3,7 @@ HTML-various ways of adding styles>     curl -k https://cse-f.github.io/wt/html/
 HTML-selectors-------------------->     curl -k https://cse-f.github.io/wt/html/selectors.js
 HTML-grid-------------------->     curl -k https://cse-f.github.io/wt/html/grid.js
 HTML-flex-------------------->     curl -k https://cse-f.github.io/wt/html/flex.js
+HTML-trnasition-------------------->     curl -k https://cse-f.github.io/wt/html/transition.js
 
 
 
