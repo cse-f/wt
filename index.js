@@ -1,3 +1,6 @@
+HTML-registration Form------->     curl -k https://cse-f.github.io/wt/html/registration_form.js
+
+
 JS-fibonacci series----------->     curl -k https://cse-f.github.io/wt/js/fib.js
 JS-Array Methods-------------->     curl -k https://cse-f.github.io/wt/js/array_methods.js
 JS-factorial------------------>     curl -k https://cse-f.github.io/wt/js/fact.js
