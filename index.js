@@ -1,4 +1,5 @@
-HTML-registration Form------->     curl -k https://cse-f.github.io/wt/html/registration_form.js
+HTML-registration Form------------>     curl -k https://cse-f.github.io/wt/html/registration_form.js
+HTML-various ways of adding styles>     curl -k https://cse-f.github.io/wt/html/styles.js
 
 
 JS-fibonacci series----------->     curl -k https://cse-f.github.io/wt/js/fib.js
