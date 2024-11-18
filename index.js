@@ -33,4 +33,6 @@ JDBC-databaseMETADATA----------->         curl -k https://cse-f.github.io/wt/jdb
 JDBC-resultSET METADATA--------->         curl -k https://cse-f.github.io/wt/jdbc/6.js
 JDBC-scrollable restulSET------->         curl -k https://cse-f.github.io/wt/jdbc/scrollable.js
 
+SERVLET-LifeCycle--------------->         curl -k https://cse-f.github.io/wt/servlets/lifecycle.js
 
+JSP-data And Time--------------->         curl -k https://cse-f.github.io/wt/jsp/dateAndTime.js
