@@ -31,11 +31,13 @@ public class SecondMain extends HttpServlet {
         System.out.println("Processing GET request.");
     }
 
-    @Override
+   @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        resp.getWriter().write("Hello, World! This is a POST request.");
-        System.out.println("Processing POST request.");
+        String name = req.getParameter("name");
+        resp.getWriter().write("Hello, " + name + "! This is a POST request.");
+        System.out.println("Received name: " + name);
     }
+
 
     @Override
     public void destroy() {
@@ -53,6 +55,8 @@ create html file in webapp folder
 </head>
 <body>
     <form action="SecondMain" method="post">
+        <label for="name">Enter your name:</label>
+        <input type="text" id="name" name="name" required>
         <input type="submit" value="Submit POST Request">
     </form>
 </body>
